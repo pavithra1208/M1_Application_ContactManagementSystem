@@ -1,16 +1,5 @@
-#include<stdio.h>
-#include<conio.h>
-#include<string.h>
-struct dir{
-    char name[20];
-    char number[10];
+#include <contact_management.h>
 
-};
-void insert(char *a);
-void update(char *a);
-void delete(char *a);
-void display(char *a);
-void search(char *a);
 int record =0;
 
 int main()
@@ -19,13 +8,13 @@ int main()
     char *argv="record.txt";
     while(1){
         printf("\n1 insert\t 2 update\n");
-        printf("3 delete\t 4 display\n");
+        printf("3 delet\t 4 display\n");
         printf("5 search\t 6 exit\n Enter your choice:");
         scanf("%d", &choice);
         switch(choice){
             case 1: insert(argv);break;
             case 2: update(argv);break;
-            case 3: delete(argv);break;
+            case 3: delet(argv);break;
             case 4: display(argv);break;
             case 5: search(argv);break;
             case 6: return 0;
@@ -80,7 +69,7 @@ void update(char *a)
     
 }
 
-void delete(char *a)
+void delet(char *a)
 {
     FILE *fp;
     fp=fopen(a,"r+");
