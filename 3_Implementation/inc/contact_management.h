@@ -26,5 +26,6 @@ void update(char *a);
 void delet(char *a);
 void display(char *a);
 void search(char *a);
+int main();
   
 #endif //#ifndef CONTACTMANAGEMENT_H
