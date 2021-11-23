@@ -16,13 +16,6 @@
 #include<conio.h>
 #include<string.h>
 
-struct dir
-{
-    char name[20];
-    char number[10];
-};
- 
-  
 /* Function Prototype */
 void insert(char *a);
 void update(char *a);
