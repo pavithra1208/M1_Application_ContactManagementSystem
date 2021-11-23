@@ -1,16 +1,11 @@
-#include<stdio.h>
-#include<conio.h>
-#include<string.h>
+#include<contact_management.h>
+
 struct dir{
     char name[20];
     char number[10];
 
 };
-void insert(char *a);
-void update(char *a);
-void delete(char *a);
-void display(char *a);
-void search(char *a);
+
 int record =0;
 
 int main()
