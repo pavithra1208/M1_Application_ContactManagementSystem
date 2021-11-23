@@ -12,6 +12,9 @@
 #ifndef CONTACTMANAGEMENT_H
 #define CONTACTMANAGEMENT_H
 
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
 
 struct dir
 {
