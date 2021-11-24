@@ -13,8 +13,8 @@ Folder             | Description
 
 
 #  Code-Inspector Badges
-Build | Cpp Check | Unity | Codacy
-------|----------|-------|--------------
+## codacy
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d37b01e8a6144b8498080005a3b5f116)](https://app.codacy.com/gh/pavithra1208/M1_Application_ContactManagementSystem/dashboard)
 
 ## Functions 
 
