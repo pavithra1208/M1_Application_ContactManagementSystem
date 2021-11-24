@@ -14,7 +14,7 @@ Folder             | Description
 
 #  Code-Inspector Badges
 ## codacy
- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d37b01e8a6144b8498080005a3b5f116)](https://app.codacy.com/gh/pavithra1208/M1_Application_ContactManagementSystem/dashboard)
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b597334574024eaa9307eb0fb19e42a7)](https://www.codacy.com/gh/pavithra1208/M1_Application_ContactManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavithra1208/M1_Application_ContactManagementSystem&amp;utm_campaign=Badge_Grade)
 
 ## Functions 
 
