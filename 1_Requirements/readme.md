@@ -2,7 +2,7 @@
 ## Introduction
 The Contact Management System is a project that can manage the contact details of a person you know. The system can help you organize a person details by entering their information such as Phone number, Name, etc. The purpose of the system is to help and maintain the managing of a person contact information.
 ## Research
-The contact Management System was created in a simple console application, the system can be access without providing any login information. The user can do a lot of task in the system in the system, he/she can add new contact, list all contact, search person detail, and delete person record. The system contains function that can manage the contact information being stored in the system. The user can update the current contact information. The entered data are stored as a text extension file in the system folder.
+The contact Management System was created in a simple console application, the system can be access without providing any login information. The user can do a lot of task in the system, he/she can add new contact, list all contact, search person detail, and delete person record. The system contains function that can manage the contact information being stored in the system. The user can update the current contact information. The entered data are stored as a text extension file in the system folder.
 ## Cost and Features and Timeline
 File handling, functions and pointers are the main things which make up this project. The key features of contact management system are listed below:
 
