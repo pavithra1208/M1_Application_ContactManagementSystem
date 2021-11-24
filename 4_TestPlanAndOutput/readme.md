@@ -12,3 +12,5 @@
 |:---:   | :------------------------------------------:   | :-----------------:|:------------------:|
 |L_01    | User shall be able to fetch the data from file |SUCCESS             |SUCCESS             | 
 |L_02    | System must diplay data without error          |SUCCESS             |SUCCESS             | 
+# OUTPUT
+![CodeExecutionImage](https://user-images.githubusercontent.com/88384193/143208153-755cc7e2-b94a-4281-b90d-1b114f3164bc.JPG)
