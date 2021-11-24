@@ -1,16 +1,15 @@
 # TEST PLAN:
 ## High level test cases
-|Test ID | Description                      |Exp I/P             |Exp O/P             | Actual Out         | 
-|:---:   | :----------------------------:   | :-----------------:|:------------------:|:------------------:|
-|H_01    | Insert contact details           |name[20],number[10] |name[20],number[10] |name[20],number[10] | 
-|H_02    | Update contact details           |name[20]            |number[10]          |number[10]          | 
-|H_03    | delete contact details           |name[20]            |number[10]          |number[10]          | 
-|H_04    | display contact details          |name[20]            |number[10]          |number[10]          | 
-|H_05    | search contact details           |name[20]            |number[10]          |number[10]          | 
+|Test ID | Description                                             |Exp I/P             |Exp O/P             | Actual Out         | Type of test     |
+|:---:   | :----------------------------:                          | :-----------------:|:------------------:|:------------------:|:-----------------|
+|H_01    | User can Insert contact details by enter their name,num |name[20],number[10] |name[20],number[10] |name[20],number[10] | Requirement based|
+|H_02    | User can modify details by selecting name               |name[20]            |number[10]          |number[10]          | Requirement based|
+|H_03    | display contact details that store in file              |name[20]            |number[10]          |number[10]          | Scenario based   |
+|H_04    | search contact details by their name                    |name[20]            |number[10]          |number[10]          | Boundary based   |
 ## Low level test cases
-|Test ID | Description                                    |Exp O/P             | Actual Out         | 
-|:---:   | :------------------------------------------:   | :-----------------:|:------------------:|
-|L_01    | User shall be able to fetch the data from file |SUCCESS             |SUCCESS             | 
-|L_02    | System must diplay data without error          |SUCCESS             |SUCCESS             | 
+|Test ID | Description                                    |Exp I/p                 |Exp O/P             | Actual Out         | Type of Test      |
+|:---:   | :------------------------------------------:   |:----------------------:|:------------------:|:------------------:|:------------:      |
+|L_01    | User shall be able to fetch the data from file |list the contact details|SUCCESS             |SUCCESS             | Requirement based|
+|L_02    | System must diplay data without error          |details in record       |SUCCESS             |SUCCESS             | Scenario based|
 # OUTPUT
 ![CodeExecutionImage](https://user-images.githubusercontent.com/88384193/143208153-755cc7e2-b94a-4281-b90d-1b114f3164bc.JPG)
