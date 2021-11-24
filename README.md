@@ -6,7 +6,7 @@ The contact Management System is an application, that enables the user do a lot 
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
+`2_Architecture`   | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Imagesandoutput`| Output Images.
