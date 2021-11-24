@@ -14,7 +14,9 @@ Folder             | Description
 
 #  Code-Inspector Badges
 ## codacy
- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b597334574024eaa9307eb0fb19e42a7)](https://www.codacy.com/gh/pavithra1208/M1_Application_ContactManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavithra1208/M1_Application_ContactManagementSystem&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b597334574024eaa9307eb0fb19e42a7)](https://www.codacy.com/gh/pavithra1208/M1_Application_ContactManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pavithra1208/M1_Application_ContactManagementSystem&amp;utm_campaign=Badge_Grade)
+## CI check
+ [![CI](https://github.com/pavithra1208/M1_Application_ContactManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/pavithra1208/M1_Application_ContactManagementSystem/actions/workflows/main.yml)
 
 ## Functions 
 
